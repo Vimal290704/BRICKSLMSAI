@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexicon version="1.0" 
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon 
+        http://www.w3.org/TR/pronunciation-lexicon/pls.xsd"
+      alphabet="ipa" xml:lang="en-IN">
+<lexeme>
+<grapheme>physics</grapheme>
+<phoneme>ˈfɪzɪks</phoneme>
+</lexeme>
+<lexeme>
+<grapheme>SI units</grapheme>
+<phoneme>ɛs ʌɪ ˈjuːnɪʈs</phoneme>
+</lexeme>
+<lexeme>
+<grapheme>measurement</grapheme>
+<phoneme>ˈmɛʒəmənʈ</phoneme>
+</lexeme>
+<lexeme>
+<grapheme>kilogram</grapheme>
+<phoneme>ˈkɪloʊgræm</phoneme>
+</lexeme>
+<lexeme>
+<grapheme>metre</grapheme>
+<phoneme>ˈmiːʈər</phoneme>
+</lexeme>
+<lexeme>
+<grapheme>second</grapheme>
+<phoneme>ˈsɛkənd</phoneme>
+</lexeme>
+<lexeme>
+<grapheme>vernier caliper</grapheme>
+<phoneme>ˈvərnɪər ˈkælɪpər</phoneme>
+</lexeme>
+<lexeme>
+<grapheme>screw gauge</grapheme>
+<phoneme>skruː geɪʤ</phoneme>
+</lexeme>
+
+  <!-- Mechanics - Kinematics -->
+  <lexeme>
+    <grapheme>kinematics</grapheme>
+    <phoneme>kɪnəˈmæʈɪks</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>displacement</grapheme>
+    <phoneme>dɪsˈpleɪsmənʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>velocity</grapheme>
+    <phoneme>vəˈlɒsɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>acceleration</grapheme>
+    <phoneme>æksɛləˈreɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>retardation</grapheme>
+    <phoneme>riːʈɑːrˈdeɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>instantaneous</grapheme>
+    <phoneme>ɪnsʈənˈʈeɪnɪəs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>rectilinear</grapheme>
+    <phoneme>rɛkʈɪˈlɪnɪər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>trajectory</grapheme>
+    <phoneme>ʈrəˈʤɛkʈəri</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>projectile</grapheme>
+    <phoneme>prəˈʤɛkʈaɪl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>parabola</grapheme>
+    <phoneme>pəˈræbələ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>scalar</grapheme>
+    <phoneme>ˈskeɪlər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>vector</grapheme>
+    <phoneme>ˈvɛkʈər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>resultant</grapheme>
+    <phoneme>rɪˈzʌlʈənʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>uniform</grapheme>
+    <phoneme>ˈjuːnɪfɔːrm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>non-uniform</grapheme>
+    <phoneme>nɒn ˈjuːnɪfɔːrm</phoneme>
+  </lexeme>
+  
+  <!-- Mechanics - Dynamics -->
+  <lexeme>
+    <grapheme>dynamics</grapheme>
+    <phoneme>dʌɪˈnæmɪks</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>newton</grapheme>
+    <phoneme>ˈnjuːʈən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>inertia</grapheme>
+    <phoneme>ɪˈnərʃə</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>force</grapheme>
+    <phoneme>fɔːrs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>mass</grapheme>
+    <phoneme>mæs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>momentum</grapheme>
+    <phoneme>moʊˈmɛnʈəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>impulse</grapheme>
+    <phoneme>ˈɪmpʌls</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>friction</grapheme>
+    <phoneme>ˈfrɪkʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>gravitational</grapheme>
+    <phoneme>grævɪˈʈeɪʃənəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>tension</grapheme>
+    <phoneme>ˈʈɛnʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>normal reaction</grapheme>
+    <phoneme>ˈnɔːrməl riːˈækʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>free body diagram</grapheme>
+    <phoneme>friː ˈbɒdi ˈdaɪəgræm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>equilibrium</grapheme>
+    <phoneme>iːkwɪˈlɪbrɪəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>centripetal</grapheme>
+    <phoneme>sɛnˈʈrɪpeʈəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>centrifugal</grapheme>
+    <phoneme>sɛnˈʈrɪfjʊgəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>pseudo force</grapheme>
+    <phoneme>ˈsuːdoʊ fɔːrs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>circular</grapheme>
+    <phoneme>ˈsərkjʊlər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>angular velocity</grapheme>
+    <phoneme>ˈæŋgjʊlər vəˈlɒsɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>angular acceleration</grapheme>
+    <phoneme>ˈæŋgjʊlər æksɛləˈreɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>radius</grapheme>
+    <phoneme>ˈreɪdɪəs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>tangential</grapheme>
+    <phoneme>ʈænˈʤɛnʃəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>elasticity</grapheme>
+    <phoneme>ɪlæsˈʈɪsɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>deformation</grapheme>
+    <phoneme>diːfɔːrˈmeɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>stress</grapheme>
+    <phoneme>sʈrɛs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>strain</grapheme>
+    <phoneme>sʈreɪn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Young's modulus</grapheme>
+    <phoneme>jʌŋz ˈmɒdjʊləs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>bulk modulus</grapheme>
+    <phoneme>bʌlk ˈmɒdjʊləs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>shear modulus</grapheme>
+    <phoneme>ʃɪər ˈmɒdjʊləs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hooke's law</grapheme>
+    <phoneme>hʊks lɔː</phoneme>
+  </lexeme>
+  
+  <!-- Work, Energy, Power -->
+  <lexeme>
+    <grapheme>joule</grapheme>
+    <phoneme>ʤuːl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>energy</grapheme>
+    <phoneme>ˈɛnərʤi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>work</grapheme>
+    <phoneme>wərk</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>kinetic energy</grapheme>
+    <phoneme>kɪˈnɛʈɪk ˈɛnərʤi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>potential energy</grapheme>
+    <phoneme>pəˈʈɛnʃəl ˈɛnərʤi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>power</grapheme>
+    <phoneme>ˈpaʊər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>watt</grapheme>
+    <phoneme>wɒʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>conservation</grapheme>
+    <phoneme>kɒnsərˈveɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>elastic collision</grapheme>
+    <phoneme>ɪˈlæsʈɪk kəˈlɪʒən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>inelastic collision</grapheme>
+    <phoneme>ɪnɪˈlæsʈɪk kəˈlɪʒən</phoneme>
+  </lexeme>
+  
+  <!-- Rotational Mechanics -->
+  <lexeme>
+    <grapheme>torque</grapheme>
+    <phoneme>ʈɔrk</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>moment of inertia</grapheme>
+    <phoneme>ˈmoʊmənʈ əv ɪˈnərʃə</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>angular momentum</grapheme>
+    <phoneme>ˈæŋgjʊlər moʊˈmɛnʈəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>rigid body</grapheme>
+    <phoneme>ˈrɪʤɪd ˈbɒdi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>rotational kinetic energy</grapheme>
+    <phoneme>roʊˈʈeɪʃənəl kɪˈnɛʈɪk ˈɛnərʤi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>axis</grapheme>
+    <phoneme>ˈæksɪs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>parallel axis theorem</grapheme>
+    <phoneme>ˈpærəlɛl ˈæksɪs ˈθɪərəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>perpendicular axis theorem</grapheme>
+    <phoneme>pərpənˈdɪkjʊlər ˈæksɪs ˈθɪərəm</phoneme>
+  </lexeme>
+  
+  <!-- Gravitation -->
+  <lexeme>
+    <grapheme>gravitation</grapheme>
+    <phoneme>grævɪˈʈeɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>universal gravitation</grapheme>
+    <phoneme>juːnɪˈvərsəl grævɪˈʈeɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>gravitational field</grapheme>
+    <phoneme>grævɪˈʈeɪʃənəl fiːld</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>gravitational potential</grapheme>
+    <phoneme>grævɪˈʈeɪʃənəl pəˈʈɛnʃəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>escape velocity</grapheme>
+    <phoneme>ɪsˈkeɪp vəˈlɒsɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>orbital velocity</grapheme>
+    <phoneme>ˈɔːrbɪʈəl vəˈlɒsɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>satellite</grapheme>
+    <phoneme>ˈsæʈəlaɪʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kepler's laws</grapheme>
+    <phoneme>ˈkɛplərz lɔːz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>geostationary</grapheme>
+    <phoneme>ʤiːoʊˈsʈeɪʃənɛri</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>planet</grapheme>
+    <phoneme>ˈplænɪʈ</phoneme>
+  </lexeme>
+  
+  <!-- Fluid Mechanics -->
+  <lexeme>
+    <grapheme>fluid</grapheme>
+    <phoneme>ˈfluːɪd</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>pressure</grapheme>
+    <phoneme>ˈprɛʃər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>pascal</grapheme>
+    <phoneme>pʌsˈkʌl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>density</grapheme>
+    <phoneme>ˈdɛnsɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>hydraulic</grapheme>
+    <phoneme>haɪˈdrɔːlɪk</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Archimedes' principle</grapheme>
+    <phoneme>ɑːrkɪˈmiːdiːz ˈprɪnsɪpəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>buoyancy</grapheme>
+    <phoneme>ˈbɔɪənsi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Pascal's law</grapheme>
+    <phoneme>pʌsˈkʌlz lɔː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bernoulli's principle</grapheme>
+    <phoneme>bərˈnuːliz ˈprɪnsɪpəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>viscosity</grapheme>
+    <phoneme>vɪsˈkɒsɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>streamline</grapheme>
+    <phoneme>ˈsʈriːmlaɪn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>turbulent</grapheme>
+    <phoneme>ˈʈərbʊlənʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>laminar</grapheme>
+    <phoneme>ˈlæmɪnər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Reynolds number</grapheme>
+    <phoneme>ˈrɛnəldz ˈnʌmbər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Stokes' law</grapheme>
+    <phoneme>sʈoʊks lɔː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>surface tension</grapheme>
+    <phoneme>ˈsərfəs ˈʈɛnʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>capillary</grapheme>
+    <phoneme>ˈkæpɪləri</phoneme>
+  </lexeme>
+
+  <!-- Thermodynamics -->
+  <lexeme>
+    <grapheme>thermodynamics</grapheme>
+    <phoneme>θərmoʊdʌɪˈnæmɪks</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>heat</grapheme>
+    <phoneme>hiːʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>temperature</grapheme>
+    <phoneme>ˈʈɛmprəʧər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Celsius</grapheme>
+    <phoneme>ˈsɛlsɪəs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Fahrenheit</grapheme>
+    <phoneme>ˈfærənhaɪʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>kelvin</grapheme>
+    <phoneme>ˈkɛlvɪn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>thermal equilibrium</grapheme>
+    <phoneme>ˈθərməl iːkwɪˈlɪbrɪəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>entropy</grapheme>
+    <phoneme>ˈɛnʈrəpi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>adiabatic</grapheme>
+    <phoneme>ʌdɪəˈbæʈɪk</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>isothermal</grapheme>
+    <phoneme>ʌɪsoʊˈθərmʌl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>isobaric</grapheme>
+    <phoneme>ʌɪsoʊˈbærɪk</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>isochoric</grapheme>
+    <phoneme>ʌɪsoʊˈkɒrɪk</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>latent heat</grapheme>
+    <phoneme>ˈleɪʈənʈ hiːʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>specific heat capacity</grapheme>
+    <phoneme>spəˈsɪfɪk hiːʈ kəˈpæsɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>thermal expansion</grapheme>
+    <phoneme>ˈθərməl ɪksˈpænʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>calorimetry</grapheme>
+    <phoneme>kæləˈrɪmɪʈri</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>thermal conductivity</grapheme>
+    <phoneme>ˈθərməl kɒndʌkˈʈɪvɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>radiation</grapheme>
+    <phoneme>reɪdɪˈeɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>convection</grapheme>
+    <phoneme>kənˈvɛkʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>conduction</grapheme>
+    <phoneme>kənˈdʌkʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Carnot cycle</grapheme>
+    <phoneme>kɑːrˈnoʊ ˈsaɪkəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>efficiency</grapheme>
+    <phoneme>ɪˈfɪʃənsi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>heat engine</grapheme>
+    <phoneme>hiːʈ ˈɛnʤɪn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>refrigerator</grapheme>
+    <phoneme>rɪˈfrɪʤəreɪʈər</phoneme>
+  </lexeme>
+
+  <!-- Waves and Oscillations -->
+  <lexeme>
+    <grapheme>oscillation</grapheme>
+    <phoneme>ɒsɪˈleɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>simple harmonic motion</grapheme>
+    <phoneme>ˈsɪmpəl hɑːrˈmɒnɪk ˈmoʊʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>periodic</grapheme>
+    <phoneme>pɪərɪˈɒdɪk</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>amplitude</grapheme>
+    <phoneme>ˈæmplɪʈjuːd</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>frequency</grapheme>
+    <phoneme>ˈfriːkwənsi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>hertz</grapheme>
+    <phoneme>həʈz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>time period</grapheme>
+    <phoneme>ʈaɪm ˈpɪərɪəd</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>phase</grapheme>
+    <phoneme>feɪz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>damped oscillation</grapheme>
+    <phoneme>dæmpʈ ɒsɪˈleɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>forced oscillation</grapheme>
+    <phoneme>fɔːrsʈ ɒsɪˈleɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>resonance</grapheme>
+    <phoneme>ˈrɛzənəns</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>wave</grapheme>
+    <phoneme>weɪv</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>wavelength</grapheme>
+    <phoneme>ˈweɪvlɛŋθ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>transverse</grapheme>
+    <phoneme>ʈrænsˈvərs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>longitudinal</grapheme>
+    <phoneme>lɒnʤɪˈʈjuːdɪnəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>interference</grapheme>
+    <phoneme>ɪnʈərˈfɪərəns</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>diffraction</grapheme>
+    <phoneme>dɪˈfrækʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Doppler effect</grapheme>
+    <phoneme>ˈdɒplər ɪˈfɛkʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>standing wave</grapheme>
+    <phoneme>ˈsʈændɪŋ weɪv</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>node</grapheme>
+    <phoneme>noʊd</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>antinode</grapheme>
+    <phoneme>ˈænʈinoʊd</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>polarization</grapheme>
+    <phoneme>poʊlərɪˈzeɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>sound wave</grapheme>
+    <phoneme>saʊnd weɪv</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>decibel</grapheme>
+    <phoneme>ˈdɛsɪbɛl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>intensity</grapheme>
+    <phoneme>ɪnˈʈɛnsɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>beats</grapheme>
+    <phoneme>biːʈs</phoneme>
+  </lexeme>
+  
+  <!-- Electrostatics -->
+  <lexeme>
+    <grapheme>electrostatics</grapheme>
+    <phoneme>ɪlɛkʈroʊˈsʈæʈɪks</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>charge</grapheme>
+    <phoneme>ʧɑːrʤ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>coulomb</grapheme>
+    <phoneme>ˈkuːlɒm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>electric field</grapheme>
+    <phoneme>ɪˈlɛkʈrɪk fiːld</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>electric potential</grapheme>
+    <phoneme>ɪˈlɛkʈrɪk pəˈʈɛnʃəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>potential difference</grapheme>
+    <phoneme>pəˈʈɛnʃəl ˈdɪfrəns</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>volt</grapheme>
+    <phoneme>voʊlʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Coulomb's law</grapheme>
+    <phoneme>ˈkuːlɒmz lɔː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>electrostatic induction</grapheme>
+    <phoneme>ɪlɛkʈroʊˈsʈæʈɪk ɪnˈdʌkʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>capacitance</grapheme>
+    <phoneme>kəˈpæsɪʈəns</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>farad</grapheme>
+    <phoneme>ˈfærəd</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>dielectric</grapheme>
+    <phoneme>daɪɪˈlɛkʈrɪk</phoneme>
+  </lexeme>
+<lexeme>
+    <grapheme>permittivity</grapheme>
+    <phoneme>pərmɪˈʈɪvɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>parallel plate capacitor</grapheme>
+    <phoneme>ˈpærəlɛl pleɪʈ kəˈpæsɪʈər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Gauss's law</grapheme>
+    <phoneme>gaʊsɪz lɔː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>electric dipole</grapheme>
+    <phoneme>ɪˈlɛkʈrɪk ˈdaɪpoʊl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>flux</grapheme>
+    <phoneme>flʌks</phoneme>
+  </lexeme>
+
+  <!-- Current Electricity -->
+  <lexeme>
+    <grapheme>current</grapheme>
+    <phoneme>ˈkʌrənʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>ampere</grapheme>
+    <phoneme>ˈæmpɪər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>resistance</grapheme>
+    <phoneme>rɪˈzɪsʈəns</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>ohm</grapheme>
+    <phoneme>oʊm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>resistivity</grapheme>
+    <phoneme>riːzɪsˈʈɪvɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ohm's law</grapheme>
+    <phoneme>oʊmz lɔː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>conductivity</grapheme>
+    <phoneme>kɒndʌkˈʈɪvɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>circuit</grapheme>
+    <phoneme>ˈsərkɪʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>series</grapheme>
+    <phoneme>ˈsɪəriːz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>parallel</grapheme>
+    <phoneme>ˈpærəlɛl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>emf</grapheme>
+    <phoneme>iː ɛm ɛf</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>terminal voltage</grapheme>
+    <phoneme>ˈʈərmɪnəl ˈvoʊlʈɪʤ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>internal resistance</grapheme>
+    <phoneme>ɪnˈʈərnəl rɪˈzɪsʈəns</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kirchhoff's laws</grapheme>
+    <phoneme>ˈkɪərkhɒfs lɔːz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Wheatstone bridge</grapheme>
+    <phoneme>ˈwiːʈsʈoʊn brɪʤ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>potentiometer</grapheme>
+    <phoneme>poʊʈɛnʃiˈɒmɪʈər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>meter bridge</grapheme>
+    <phoneme>ˈmiːʈər brɪʤ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>shunt</grapheme>
+    <phoneme>ʃʌnʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>ammeter</grapheme>
+    <phoneme>ˈæmiːʈər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>voltmeter</grapheme>
+    <phoneme>ˈvoʊlʈmiːʈər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>galvanometer</grapheme>
+    <phoneme>gælvəˈnɒmɪʈər</phoneme>
+  </lexeme>
+
+  <!-- Magnetism -->
+  <lexeme>
+    <grapheme>magnetism</grapheme>
+    <phoneme>ˈmægnəʈɪzəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>magnetic field</grapheme>
+    <phoneme>mægˈnɛʈɪk fiːld</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>magnetic flux</grapheme>
+    <phoneme>mægˈnɛʈɪk flʌks</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>weber</grapheme>
+    <phoneme>ˈveɪbər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>tesla</grapheme>
+    <phoneme>ˈʈɛslə</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>gauss</grapheme>
+    <phoneme>gaʊs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>paramagnetism</grapheme>
+    <phoneme>pærəˈmægnəʈɪzəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>diamagnetism</grapheme>
+    <phoneme>daɪəˈmægnəʈɪzəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>ferromagnetism</grapheme>
+    <phoneme>fɛroʊˈmægnəʈɪzəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>solenoid</grapheme>
+    <phoneme>ˈsoʊlənɔɪd</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>toroid</grapheme>
+    <phoneme>ˈʈɔːrɔɪd</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Lorentz force</grapheme>
+    <phoneme>ˈlɔːrɛnʈs fɔːrs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Biot-Savart law</grapheme>
+    <phoneme>ˈbiːoʊ səˈvɑːr lɔː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ampere's law</grapheme>
+    <phoneme>ˈæmpɪərz lɔː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>permeability</grapheme>
+    <phoneme>pərmiːəˈbɪlɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>hysteresis</grapheme>
+    <phoneme>hɪsʈəˈriːsɪs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>domain theory</grapheme>
+    <phoneme>doʊˈmeɪn ˈθɪəri</phoneme>
+  </lexeme>
+  
+  <!-- Electromagnetic Induction -->
+  <lexeme>
+    <grapheme>electromagnetic induction</grapheme>
+    <phoneme>ɪlɛkʈroʊmægˈnɛʈɪk ɪnˈdʌkʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Faraday's law</grapheme>
+    <phoneme>ˈfærədeɪz lɔː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Lenz's law</grapheme>
+    <phoneme>lɛnzɪz lɔː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>induced emf</grapheme>
+    <phoneme>ɪnˈdjuːsʈ iː ɛm ɛf</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>eddy currents</grapheme>
+    <phoneme>ˈɛdi ˈkʌrənʈs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>self-induction</grapheme>
+    <phoneme>sɛlf ɪnˈdʌkʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>mutual induction</grapheme>
+    <phoneme>ˈmjuːʧuəl ɪnˈdʌkʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>inductance</grapheme>
+    <phoneme>ɪnˈdʌkʈəns</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>henry</grapheme>
+    <phoneme>ˈhɛnri</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>transformer</grapheme>
+    <phoneme>ʈrænsˈfɔːrmər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>step-up</grapheme>
+    <phoneme>sʈɛp ʌp</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>step-down</grapheme>
+    <phoneme>sʈɛp daʊn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>alternating current</grapheme>
+    <phoneme>ˈɔːlʈərneɪʈɪŋ ˈkʌrənʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>direct current</grapheme>
+    <phoneme>dəˈrɛkʈ ˈkʌrənʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>peak value</grapheme>
+    <phoneme>piːk ˈvæljuː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>RMS value</grapheme>
+    <phoneme>ɑːr ɛm ɛs ˈvæljuː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>impedance</grapheme>
+    <phoneme>ɪmˈpiːdəns</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>reactance</grapheme>
+    <phoneme>riːˈækʈəns</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>resonant circuit</grapheme>
+    <phoneme>ˈrɛzənənʈ ˈsərkɪʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>power factor</grapheme>
+    <phoneme>ˈpaʊər ˈfækʈər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>wattless current</grapheme>
+    <phoneme>ˈwɒʈləs ˈkʌrənʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>LC oscillations</grapheme>
+    <phoneme>ɛl siː ɒsɪˈleɪʃənz</phoneme>
+  </lexeme>
+  
+  <!-- Electromagnetic Waves -->
+  <lexeme>
+    <grapheme>electromagnetic waves</grapheme>
+    <phoneme>ɪlɛkʈroʊmægˈnɛʈɪk weɪvz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>electromagnetic spectrum</grapheme>
+    <phoneme>ɪlɛkʈroʊmægˈnɛʈɪk ˈspɛkʈrəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>radio waves</grapheme>
+    <phoneme>ˈreɪdɪoʊ weɪvz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>microwaves</grapheme>
+    <phoneme>ˈmaɪkroʊweɪvz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>infrared</grapheme>
+    <phoneme>ˌɪnfrəˈrɛd</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>ultraviolet</grapheme>
+    <phoneme>ˌʌlʈrəˈvaɪələʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>X-rays</grapheme>
+    <phoneme>ˈɛks reɪz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>gamma rays</grapheme>
+    <phoneme>ˈgæmə reɪz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>propagation</grapheme>
+    <phoneme>prɒpəˈgeɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>transverse nature</grapheme>
+    <phoneme>ʈrænsˈvərs ˈneɪʧər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Maxwell's equations</grapheme>
+    <phoneme>ˈmækswɛlz ɪˈkweɪʒənz</phoneme>
+  </lexeme>
+  
+  <!-- Optics -->
+  <lexeme>
+    <grapheme>optics</grapheme>
+    <phoneme>ˈɒpʈɪks</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>reflection</grapheme>
+    <phoneme>rɪˈflɛkʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>refraction</grapheme>
+    <phoneme>rɪˈfrækʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Snell's law</grapheme>
+    <phoneme>snɛlz lɔː</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>refractive index</grapheme>
+    <phoneme>rɪˈfrækʈɪv ˈɪndɛks</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>total internal reflection</grapheme>
+    <phoneme>ˈʈoʊʈəl ɪnˈʈərnəl rɪˈflɛkʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>critical angle</grapheme>
+    <phoneme>ˈkrɪʈɪkəl ˈæŋgəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>optical fiber</grapheme>
+    <phoneme>ˈɒpʈɪkəl ˈfaɪbər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>lens</grapheme>
+    <phoneme>lɛnz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>convex</grapheme>
+    <phoneme>ˈkɒnvɛks</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>concave</grapheme>
+    <phoneme>kɒnˈkeɪv</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>focal length</grapheme>
+    <phoneme>ˈfoʊkəl lɛŋθ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>power of lens</grapheme>
+    <phoneme>ˈpaʊər əv lɛnz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>dioptre</grapheme>
+    <phoneme>daɪˈɒpʈər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>magnification</grapheme>
+    <phoneme>mægnɪfɪˈkeɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>microscope</grapheme>
+    <phoneme>ˈmaɪkrəskoʊp</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>telescope</grapheme>
+    <phoneme>ˈʈɛlɪskoʊp</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>dispersion</grapheme>
+    <phoneme>dɪsˈpərʒən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>spectrum</grapheme>
+    <phoneme>ˈspɛkʈrəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>chromatic aberration</grapheme>
+    <phoneme>kroʊˈmæʈɪk æbəˈreɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>spherical aberration</grapheme>
+    <phoneme>ˈsfɛrɪkəl æbəˈreɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Young's double slit experiment</grapheme>
+    <phoneme>jʌŋz ˈdʌbəl slɪʈ ɪksˈpɛrɪmənʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>coherent sources</grapheme>
+    <phoneme>koʊˈhɪərənʈ ˈsɔːrsɪz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>fringe</grapheme>
+    <phoneme>frɪnʤ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>diffraction grating</grapheme>
+    <phoneme>dɪˈfrækʃən ˈgreɪʈɪŋ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>resolving power</grapheme>
+    <phoneme>rɪˈzɒlvɪŋ ˈpaʊər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Rayleigh criterion</grapheme>
+    <phoneme>ˈreɪli kraɪˈʈɪərɪən</phoneme>
+  </lexeme>
+  
+  <!-- Modern Physics -->
+  <lexeme>
+    <grapheme>quantum</grapheme>
+    <phoneme>ˈkwɒnʈəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Planck's constant</grapheme>
+    <phoneme>plæŋks ˈkɒnsʈənʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>photoelectric effect</grapheme>
+    <phoneme>foʊʈoʊɪˈlɛkʈrɪk ɪˈfɛkʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>photon</grapheme>
+    <phoneme>ˈfoʊʈɒn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>work function</grapheme>
+    <phoneme>wərk ˈfʌŋkʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>threshold frequency</grapheme>
+    <phoneme>ˈθrɛʃoʊld ˈfriːkwənsi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>de Broglie wavelength</grapheme>
+    <phoneme>də ˈbrɔɪ ˈweɪvlɛŋθ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>wave-particle duality</grapheme>
+    <phoneme>weɪv ˈpɑːrʈɪkəl djuːˈæləʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Heisenberg uncertainty principle</grapheme>
+    <phoneme>ˈhaɪzənbərg ʌnˈsərʈənʈi ˈprɪnsɪpəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Schrödinger equation</grapheme>
+    <phoneme>ˈʃroʊdɪŋgər ɪˈkweɪʒən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>quantum number</grapheme>
+    <phoneme>ˈkwɒnʈəm ˈnʌmbər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bohr model</grapheme>
+    <phoneme>bɔːr ˈmɒdəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>spectral series</grapheme>
+    <phoneme>ˈspɛkʈrəl ˈsɪəriːz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>hydrogen spectrum</grapheme>
+    <phoneme>ˈhaɪdrəʤən ˈspɛkʈrəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>nucleus</grapheme>
+    <phoneme>ˈnjuːklɪəs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>proton</grapheme>
+    <phoneme>ˈproʊʈɒn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>neutron</grapheme>
+    <phoneme>ˈnjuːʈrɒn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>electron</grapheme>
+    <phoneme>ɪˈlɛkʈrɒn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>isotope</grapheme>
+    <phoneme>ˈaɪsəʈoʊp</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>binding energy</grapheme>
+    <phoneme>ˈbaɪndɪŋ ˈɛnərʤi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>radioactivity</grapheme>
+    <phoneme>reɪdɪoʊækˈʈɪvɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>alpha particle</grapheme>
+    <phoneme>ˈælfə ˈpɑːrʈɪkəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>beta particle</grapheme>
+    <phoneme>ˈbeɪʈə ˈpɑːrʈɪkəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>gamma ray</grapheme>
+    <phoneme>ˈgæmə reɪ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>half-life</grapheme>
+    <phoneme>hɑːf laɪf</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>decay constant</grapheme>
+    <phoneme>dɪˈkeɪ ˈkɒnsʈənʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>nuclear fission</grapheme>
+    <phoneme>ˈnjuːklɪər ˈfɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>nuclear fusion</grapheme>
+    <phoneme>ˈnjuːklɪər ˈfjuːʒən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>chain reaction</grapheme>
+    <phoneme>ʧeɪn riːˈækʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>critical mass</grapheme>
+    <phoneme>ˈkrɪʈɪkəl mæs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>relativity</grapheme>
+    <phoneme>rɛləˈʈɪvɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>mass-energy equivalence</grapheme>
+    <phoneme>mæs ˈɛnərʤi ɪˈkwɪvələns</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>rest mass</grapheme>
+    <phoneme>rɛsʈ mæs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>time dilation</grapheme>
+    <phoneme>ʈaɪm daɪˈleɪʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>length contraction</grapheme>
+    <phoneme>lɛŋθ kənˈʈrækʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>frame of reference</grapheme>
+    <phoneme>freɪm əv ˈrɛfrəns</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>inertial frame</grapheme>
+    <phoneme>ɪˈnərʃəl freɪm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>special relativity</grapheme>
+    <phoneme>ˈspɛʃəl rɛləˈʈɪvɪʈi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>general relativity</grapheme>
+    <phoneme>ˈʤɛnərəl rɛləˈʈɪvɪʈi</phoneme>
+  </lexeme>
+  
+  <!-- Mathematics in Physics -->
+  <lexeme>
+    <grapheme>vector</grapheme>
+    <phoneme>ˈvɛkʈər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>scalar</grapheme>
+    <phoneme>ˈskeɪlər</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>integral</grapheme>
+    <phoneme>ˈɪnʈɪgrəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>differential</grapheme>
+    <phoneme>dɪfəˈrɛnʃəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>gradient</grapheme>
+    <phoneme>ˈgreɪdɪənʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>divergence</grapheme>
+    <phoneme>daɪˈvərʤəns</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>curl</grapheme>
+    <phoneme>kərl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>partial derivative</grapheme>
+    <phoneme>ˈpɑːrʃəl dɪˈrɪvəʈɪv</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>equation</grapheme>
+    <phoneme>ɪˈkweɪʒən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>proportional</grapheme>
+    <phoneme>prəˈpɔːrʃənəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>variable</grapheme>
+    <phoneme>ˈveərɪəbəl</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>constant</grapheme>
+    <phoneme>ˈkɒnsʈənʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>coefficient</grapheme>
+    <phoneme>koʊəˈfɪʃənʈ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>dimension</grapheme>
+    <phoneme>daɪˈmɛnʃən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>approximation</grapheme>
+    <phoneme>əprɒksɪˈmeɪʃən</phoneme>
+  </lexeme>
+  </lexicon>
